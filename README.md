@@ -31,4 +31,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/gsguru572/dsa-leetcode/tree/master/0200-number-of-islands) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/gsguru572/dsa-leetcode/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/gsguru572/dsa-leetcode/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/gsguru572/dsa-leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
